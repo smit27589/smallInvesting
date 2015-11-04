@@ -1,3 +1,4 @@
+package com.bfm.app.smallInvesting;
 
 public class RestService {
 
