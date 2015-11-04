@@ -1,4 +1,3 @@
-package smallInvesting;
 
 public class RestService {
 
